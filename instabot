@@ -1,0 +1,4 @@
+#!/bin/bash
+# Simple installation script for Linux
+
+python3 old.py
